@@ -318,3 +318,12 @@
     font-weight: bold;
     font-style: normal;
 }
+
+/* Menlo */
+
+@font-face {
+    font-family: 'Menlo';
+    src: local('Menlo'), local('Menlo'), url('./Menlo.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}

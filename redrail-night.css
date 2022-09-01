@@ -556,8 +556,8 @@ table tr td:last-child {
     /*font-family: 'Roboto Mono', 'Source Sans Pro', 'Microsoft YaHei', '微软雅黑';*/
     /*font-family: Consolas, 'Source Han SerifCN', Georgia, Times, 'SimSun' !important;*/
     font-family: 'Menlo';
-    /*font-size: 0.9rem;*/
-    font-size: 17px;
+    font-size: 0.9rem;
+    /*font-size: 17px;*/
     font-weight: normal;
     word-wrap: normal;
 }
